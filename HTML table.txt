@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<style>
+ table,th,td{
+  border:1px solid black;
+ }
+ </style>
+ <body>
+ <h2>Two persons data</h2>
+ <table style="width:100%">
+ <tr>
+    <th>First name</th>
+    <th>Last name</th>
+    <th>Gender</th>
+    <th>Phone no</th>
+   </tr>
+  <tr>
+    <td>Yamuna</td>
+    <td>Katuri</td>
+    <td>Female</td>
+    <td>7075470052</td>
+   
+  </tr>
+ <tr>
+    <td>Tiriveedi</td>
+    <td>Kondaiah</td>
+    <td>Male</td>
+    <td>9985855185</td>
+   </tr>
+</table>
+</body>
+</html>
